@@ -25,7 +25,7 @@ npm install -DE vite-plugin-elm-watch
 ```bash
 touch vite.config.js
 ```
-## contests of vite.config.js
+## contents of vite.config.js
 ```js
 import { defineConfig } from "vite";
 
