@@ -1,7 +1,7 @@
 {
   "name": "my_template",
   "version": "1.0.0",
-  "description": "",
+  "description": "This guid is captured from the youtube video. [RaynYoutubeChannel](https://www.youtube.com/watch?v=YfS5BJ4IXcQ)",
   "main": "index.js",
   "type": "module",
   "scripts": {
